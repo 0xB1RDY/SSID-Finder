@@ -16,4 +16,4 @@ Finally, run main.py
 python main.py
 ```
 Based on your Python configuration, it may be Python3 or your latest version in the command.
-<img src="https://cdn.discordapp.com/attachments/1191940685281108121/1206060031695519794/wifi-symbol-transparent-21-1526981379.png?ex=65daa1ef&is=65c82cef&hm=1ac21bc83cbb0c0f58d101b613d0008432c65eff848ac142dc1680b88483ec43&" width="50%" height="50%">
+<img src="https://cdn.discordapp.com/attachments/1191940685281108121/1206060031695519794/wifi-symbol-transparent-21-1526981379.png?ex=65daa1ef&is=65c82cef&hm=1ac21bc83cbb0c0f58d101b613d0008432c65eff848ac142dc1680b88483ec43&" width="50%" height="50%" class="center">
