@@ -15,5 +15,6 @@ Finally, run main.py
 python main.py
 ```
 Based on your Python configuration, it may be Python3 or your latest version in the command.<br />
+<br />
 NOTE: You need to have the WiFi viewer thing open, so you can actually discover the access points and get the BSSID's, or else it will only show the one you are connected too<br />
 Simply just act like you are going to connect to a network, and the list shows up, keep that open.
