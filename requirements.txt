@@ -1,0 +1,4 @@
+colorama
+os
+subprocess
+time
